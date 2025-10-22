@@ -16,13 +16,11 @@
 title: Jocelyn Stericker
 email: jocelyn@nettek.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Principal software engineer at a startup. Previously at Khan Academy.
-  Pianist, cyclist, and enthusiastic learner.
-  Waterloo, ON.
+  Software engineer who likes running a lot.
+  Kitchener, ON.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nettek.ca" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: emilyskidsister
-github_username: emilyskidsister
+github_username: jocelyn-stericker
 
 # Build settings
 markdown: kramdown
